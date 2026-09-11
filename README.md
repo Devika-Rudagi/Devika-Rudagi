@@ -3,7 +3,7 @@
 Software engineer turned AI/ML builder, now exploring product roles that call on that technical depth.
 
 - **Education:** MS Computer Science, San Francisco Bay University, May 2027 (4.0 GPA)
-- **Background:** Backend engineer (.NET/C#, 5 years) turned AI/ML builder through my MSCS, now applying that technical depth toward Product Management
+- **Background:** Backend engineer (5 years) turned AI/ML builder through my MSCS, now applying that technical depth toward Product Management
 - **Open to:** full-time AI/ML Engineering, .NET Development, and APM/PM roles starting 2027
   📫 [LinkedIn](#) · [Substack](https://devikarudagi.substack.com)
 
