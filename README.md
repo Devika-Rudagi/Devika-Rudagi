@@ -1,4 +1,4 @@
-# Hi, I am Devika 👋
+# Hi, I am Devika 
 
 Software engineer turned AI/ML builder, now exploring product roles that call on that technical depth.
 
@@ -9,7 +9,7 @@ Software engineer turned AI/ML builder, now exploring product roles that call on
 
 ---
 
-## 🧠 Featured: AI/ML & GenAI
+##  Featured: AI/ML & GenAI
 
 | Project                                                                   | What it does                                                                                          | Stack                                                               |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -19,7 +19,7 @@ Software engineer turned AI/ML builder, now exploring product roles that call on
 
 Also built (not yet public): VeriGraph, a hybrid GNN + agentic RAG fact-checker (93.1% accuracy on a 59,670-article benchmark), and a BERT-Large fine-tune reproducing published fake-news detection results (95.3% accuracy).
 
-## 💻 Featured: .NET / Software Engineering
+##  Featured: .NET / Software Engineering
 
 | Project                                                                           | What it does                                                                       | Stack                      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------- |
@@ -28,7 +28,7 @@ Also built (not yet public): VeriGraph, a hybrid GNN + agentic RAG fact-checker 
 
 ---
 
-## 🛠️ Stack at a glance
+##  Stack at a glance
 
 **.NET/SWE:** C# · .NET Core · SQL (MySQL, MSSQL) · NoSQL(MongoDB) · Event-driven architecture · Microservices · CI/CD (GitHub Actions) · REST & GraphQL APIs · JWT/OAuth2.0
 
