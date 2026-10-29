@@ -4,7 +4,7 @@ Backend Software engineer (.NET) and  AI builder
 
 - **Education:** MS Computer Science, San Francisco Bay University, May 2027 (4.0 GPA)
 - **Background:** Backend engineer (5 years) and AI Engineer pursuing Masters in Computer Science
-- **Open to:** full-time AI Engineering, Backend Development starting 2027
+- **Open to:** full-time AI Engineering, Backend Development starting May 2027
   
 📫 [LinkedIn](#)
 
